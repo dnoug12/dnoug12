@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dnoug12
-- 👀 I’m interested in Data Processing
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Fpoly HCM
 - 💞️ I’m looking to collaborate on Business Analyst, Data Analyst
 
