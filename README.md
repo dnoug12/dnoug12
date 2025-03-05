@@ -1,7 +1,4 @@
 # 👋 Xin chào, tôi là Duy Dương !
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 ## 🛠️ Kỹ năng của tôi:
 - 💻 Ngôn ngữ: Python, SQL, DAX
