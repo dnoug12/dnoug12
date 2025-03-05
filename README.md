@@ -4,22 +4,17 @@
 </p>
 
 ## 🛠️ Kỹ năng của tôi:
-- 💻 Ngôn ngữ: Python, JavaScript, SQL
+- 💻 Ngôn ngữ: Python, SQL, DAX
 - 📊 Phân tích dữ liệu: Power BI, Tableau, Excel
 - ☁️ Cloud: AWS, GCP
-- ⚡ Kỹ năng khác: Git, Docker, Machine Learning
+- ⚡ Kỹ năng khác: Git, StoryTelling, Machine Learning
 
 ## 🚀 Dự án tiêu biểu:
-- 📊 **[VietStock Project ]** - Phân tích dữ liệu tài chính bằng Python
+- 📊 **[VietStock Project ]** - Phân tích dữ liệu tài chính bằng Python 
 - 🤖 **[Traffic Sign Recognition]** - Xây dựng mô hình AI nhận diện biển giao thông
-- 📈 **[Olist Ecomerce Analysis]** - Dashboard trực quan hóa dữ liệu, phân tích doanh thu với Python và Tableau
+- 📈 **[Olist Ecomerce Analysis]** - (https://github.com/dnoug12/Olist-Ecomerce-Analysis-Project) Dashboard trực quan hóa dữ liệu, phân tích doanh thu với Python và Tableau
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
-</p>
+
 
 ## 📫 Liên hệ:
 - 📧 Email: duyduong1206@gmail.com
