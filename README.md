@@ -1,10 +1,9 @@
-# 👋 Xin chào, tôi là Duy Dương !
+# 👋 Nguyễn Thanh Duy Dương
 
-## 🛠️ Kỹ năng của tôi:
-- 💻 Ngôn ngữ: Python, SQL, DAX
-- 📊 Phân tích dữ liệu: Power BI, Tableau, Excel
-- ☁️ Cloud: AWS, GCP
-- ⚡ Kỹ năng khác: Git, StoryTelling, Machine Learning
+## 🛠️ Kỹ năng:
+- 💻 Ngôn ngữ lập trình: Python, SQL, DAX
+- 📊 Tool phân tích dữ liệu: Power BI, Tableau, Excel
+- ⚡ Kỹ năng khác: StoryTelling, Machine Learning, AI
 
 ## 🚀 Dự án tiêu biểu:
 - 📊 **[VietStock Project ]** - Phân tích dữ liệu tài chính bằng Python 
