@@ -1,8 +1,6 @@
 # 🎯 **NGUYỄN THANH DUY DƯƠNG**  
 🚀 **Data Analyst**
 
-Tôi là một người đam mê dữ liệu, với kỹ năng xử lý, phân tích và trực quan hóa dữ liệu bằng các công cụ mạnh mẽ như **Python, SQL, DAX, Power BI, Tableau**. Tôi luôn tìm cách biến dữ liệu thành những câu chuyện có ý nghĩa, giúp ra quyết định hiệu quả hơn.
-
 ---
 
 ## 🛠️ **SKILL**
