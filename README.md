@@ -1,4 +1,4 @@
-# **Duy Dương**
+### **Duy Dương**
 
 🚀 **Data Analyst**
 
@@ -14,7 +14,7 @@ Tôi là một người đam mê dữ liệu, với kỹ năng xử lý, phân t
 
 ---
 
-## 🚀 Dự án tiêu biểu
+## 🚀 **Portfolio**
 
 ### 📊 **Stock Dashboard** *(Power BI, SQL)*
 > **Mô tả:** Xây dựng hệ thống dashboard phân tích tài chính cho thị trường chứng khoán Việt Nam, trực quan hóa dữ liệu từ nhiều nguồn, hỗ trợ nhà đầu tư ra quyết định.
