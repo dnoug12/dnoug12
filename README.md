@@ -31,5 +31,5 @@
 🔗 **LinkedIn:** [linkedin.com/in/dnoug12](https://www.linkedin.com/in/dnoug12/)  
 📂 **GitHub:** [github.com/dnoug12](https://github.com/dnoug12)  
 
-🚀 Tôi luôn sẵn sàng học hỏi và hợp tác với những người cùng chí hướng! Nếu bạn có cơ hội hoặc dự án thú vị, hãy liên hệ với tôi nhé! 😃
+🚀 Tôi luôn sẵn sàng học hỏi và hợp tác với những người cùng chí hướng! Nếu bạn có cơ hội hoặc dự án thú vị, hãy liên hệ với tôi!
 
