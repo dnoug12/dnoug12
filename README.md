@@ -1,4 +1,4 @@
-# 🎯 **NGUYỄN THANH DUY DƯƠNG**  
+# **NGUYỄN THANH DUY DƯƠNG**  
 🚀 **Data Analyst**
 
 ---
