@@ -1,35 +1,34 @@
-# **NGUYỄN THANH DUY DƯƠNG**  
-🚀 **Data Analyst**
+NGUYEN THANH DUY DUONG
+🚀 Data Analyst
 
----
+🛠️ SKILLS
+💻 Programming Languages: Python, SQL, DAX
 
-## 🛠️ **SKILL**
-- 💻 **Ngôn ngữ lập trình:** Python, SQL, DAX  
-- 📊 **Phân tích & trực quan hóa dữ liệu:** Power BI, Tableau, Excel  
-- 🎯 **Kỹ năng bổ trợ:** Storytelling, Dashboard Design, Data Cleaning  
+📊 Data Analysis & Visualization: Power BI, Tableau, Excel
 
----
+🎯 Supporting Skills: Storytelling, Dashboard Design, Data Cleaning
 
-## 🚀 **PORTFOLIO**
+🚀 PORTFOLIO
+📊 Stock Dashboard (Power BI, SQL)
+Description: Developed a financial analysis dashboard system for the Vietnamese stock market, visualizing data from multiple sources to support investors in decision-making.
 
-### 📊 **Stock Dashboard** *(Power BI, SQL)*  
-- **Mô tả:** Xây dựng hệ thống dashboard phân tích tài chính cho thị trường chứng khoán Việt Nam, trực quan hóa dữ liệu từ nhiều nguồn, hỗ trợ nhà đầu tư ra quyết định.  
-> 📎 **Link:** [Stock Dashboard](https://github.com/dnoug12/VietStock-Project)  
+📎 Link: Stock Dashboard
 
-### 📦 **Northwind Analysis** *(SQL Server)*  
-- **Mô tả:** Phân tích dữ liệu bán hàng từ Northwind Database bằng SQL và Power BI  
-> 📎 **Link:** [Northwind Analysis Project](https://github.com/dnoug12/Northwind-Project-use-SQL-Server)  
+📦 Northwind Analysis (SQL Server)
+Description: Analyzed sales data from the Northwind Database using SQL and Power BI.
 
-### 📈 **Olist E-commerce Analysis** *(Python, Tableau, SQL)*  
-- **Mô tả:** Phân tích và trực quan hóa dữ liệu thương mại điện tử từ Olist, phân cụm khách hàng và đánh giá hiệu suất kinh doanh.  
-> 📎 **Link:** [Olist E-commerce Analysis](https://github.com/dnoug12/Olist-Ecomerce-Analysis-Project)  
+📎 Link: Northwind Analysis Project
 
----
+📈 Olist E-commerce Analysis (Python, Tableau, SQL)
+Description: Performed analysis and visualization of e-commerce data from Olist, including customer segmentation and business performance evaluation.
 
-## 🌎 **KẾT NỐI**
-📧 **Email:** duyduong1206@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/dnoug12](https://www.linkedin.com/in/dnoug12/)  
-📂 **GitHub:** [github.com/dnoug12](https://github.com/dnoug12)  
+📎 Link: Olist E-commerce Analysis
 
-🚀 Tôi luôn sẵn sàng học hỏi và hợp tác với những người cùng chí hướng! Nếu bạn có cơ hội hoặc dự án thú vị, hãy liên hệ với tôi!
+🌎 CONNECT WITH ME
+📧 Email: duyduong1206@gmail.com
+🔗 LinkedIn: linkedin.com/in/dnoug12
+📂 GitHub: github.com/dnoug12
 
+🚀 I’m always eager to learn and collaborate with like-minded individuals! If you have an opportunity or an exciting project, feel free to reach out!
+
+Let me know if you want a more formal or more casual tone, or if you'd like to include a short summary or objective at the top!
